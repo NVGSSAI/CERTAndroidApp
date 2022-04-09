@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074017436504",
+    "project_id": "cert-db",
+    "storage_bucket": "cert-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074017436504:android:6ea19637b2b31a0c7e9b2d",
+        "android_client_info": {
+          "package_name": "com.example.certapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074017436504-965v6050eja6dd6ji0lk29asor09poi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsTZHxm62B-h9wqYr0Lks2vmsy1OPWm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074017436504-965v6050eja6dd6ji0lk29asor09poi6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074017436504-sr4oulto0qee3dkfftmdk475so28sava.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "GDP.CERT"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
