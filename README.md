@@ -7,13 +7,6 @@
 5.  Type of disaster, damage levels
 6.  Adding unique report number.
 7.  Viewing reports on application itself using reports button. Including the Date and time field using Date and time Picker.
-8.   ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-32-08.png|width=25px|height=24px)
-9.   ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-33-53.png)
-10.  ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-34-04.png)
-11.  ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-34-09.png)
-12.  ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-34-25.png)
-13.  ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-34-49.png)
-14.  ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-35-09.png)
 15. Integrating the Database with IOS and WEB teams.
 16. Initially, we have created a dummy data and tested that in all the three types of applications.
 17. After successful testing, we have updated our application such that both Android and IOS applications look in a similar manner.
