@@ -7,7 +7,7 @@
 5.  Type of disaster, damage levels
 6.  Adding unique report number.
 7.  Viewing reports on application itself using reports button. Including the Date and time field using Date and time Picker.
-8.   ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-32-08.png)
+8.   ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-32-08.png|width="100" height="100")
 9.   ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-33-53.png)
 10.  ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-34-04.png)
 11.  ![](https://github.com/NVGSSAI/CERTAndroidApp/blob/main/Images/Screenshot_2022-04-15-20-34-09.png)
